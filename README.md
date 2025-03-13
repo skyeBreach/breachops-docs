@@ -1,15 +1,15 @@
 <!-- #region(collapsed) README Header -->
 <p align="center">
     <img
-        alt="BreachOps-Task"
+        alt="BreachOps-Docs Logo"
         src="./assets/logo_150x150.png"
         width=125px
         align="center"
     />
-    <h1 align="center">BreachOps-Task</h1>
+    <h1 align="center">BreachOps-Docs</h1>
 </p>
 <p align="center">
-    &lt;<a href="https://github.com/skyeBreach/breachops-task">Website</a>&gt;
+    &lt;<a href="https://github.com/skyeBreach/breachops-docs">Website</a>&gt;
     <span>&nbsp;&#8226;&nbsp;</span>
     &lt;<a href="./docs/pages/index.md">Documentation</a>&gt;
     <span>&nbsp;&#8226;&nbsp;</span>
@@ -34,11 +34,11 @@
     -->
     <img
         alt="License Badge"
-        src="https://flat.badgen.net/github/license/skyeBreach/breachops-task"
+        src="https://flat.badgen.net/github/license/skyeBreach/breachops-docs"
     />
     <img
         alt="GitHub Stars Badge"
-        src="https://flat.badgen.net/github/stars/skyeBreach/breachops-task"
+        src="https://flat.badgen.net/github/stars/skyeBreach/breachops-docs"
     />
 </p>
 <hr>
@@ -47,7 +47,7 @@
 > [!CAUTION]
 > **Early Development Warning**
 >
-> Due to BreachOps-Task being very early in development it is currently **NOT** recommended to use it in any production
+> Due to BreachOps-Docs being very early in development it is currently **NOT** recommended to use it in any production
 > environment.
 >
 > If you choose to ignore the above **WARNING**, then you do so at your **OWN** risk.
