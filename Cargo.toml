@@ -2,16 +2,17 @@
 name = "breachops-docs"
 version = "0.1.0"
 description = """
-Generate a
+A Blazingly Fast, Massively Extensible, and Highly Configurable Static Generator for Your Project's Documentation Built\
+for All Languages.
 """
 authors = ["skyeBreach <skyebreach@proton.me>"]
 categories = ["command-line-utilities"]
 keywords = ["cli"]
 license-file = "LICENSE"
 readme = "README.md"
-documentation = "https://github.com/skyeBreach/breachops-nav"
-homepage = "https://github.com/skyeBreach/breachops-nav"
-repository = "https://github.com/skyeBreach/breachops-nav"
+documentation = "https://github.com/skyeBreach/breachops-docs"
+homepage = "https://github.com/skyeBreach/breachops-docs"
+repository = "https://github.com/skyeBreach/breachops-docs"
 edition = "2024"
 rust-version = "1.85"
 
@@ -21,3 +22,9 @@ path = "src/main.rs"
 bench = false
 
 [dependencies]
+anyhow = "1.0.97"
+clap = { version = "4.3.12", features = ["cargo", "derive"] }
+clap_builder = "4.5.32"
+clap_complete = "4.5.46"
+tracing = "0.1.41"
+tracing-subscriber = "0.3.19"
